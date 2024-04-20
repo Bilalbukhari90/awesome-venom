@@ -61,7 +61,6 @@ Some step-by-step guides to explore Venom Blockchain mechanics. Include smart co
 
 - [VenomScan](https://venomscan.com/) - Venom Blockchain Explorer.
 - [VenomFaucet](https://faucet.venom.foundation/) - Faucet for Venom Blockchain testnet and mainnet networks.
-- [VenomPools](https://venompools.com/) - DApp that can helps you with Staking on Venom Network.
 - [Venom Tools](https://tools.venom.rs/) - Set of tools to interact with Venom smart contracts from browser.
 
 ## Official
